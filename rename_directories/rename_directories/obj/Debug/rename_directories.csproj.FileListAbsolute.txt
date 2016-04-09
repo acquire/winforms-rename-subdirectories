@@ -1,0 +1,9 @@
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\bin\Debug\rename_directories.exe.config
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\bin\Debug\rename_directories.exe
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\bin\Debug\rename_directories.pdb
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\obj\Debug\rename_directories.csprojResolveAssemblyReference.cache
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\obj\Debug\rename_directories.Form1.resources
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\obj\Debug\rename_directories.Properties.Resources.resources
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\obj\Debug\rename_directories.csproj.GenerateResource.Cache
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\obj\Debug\rename_directories.exe
+c:\users\mikw\documents\visual studio 2015\Projects\rename_directories\rename_directories\obj\Debug\rename_directories.pdb
